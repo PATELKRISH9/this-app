@@ -1,0 +1,60 @@
+nav{
+    background-color: #282c34;
+    height: 45px;
+    
+   }
+   
+   ul{
+     list-style-type: none;
+     margin: 0;
+     padding:0;
+     
+     
+   }
+   
+   .patel
+   {
+     display:inline-block;
+     margin-right: 15px;
+     font-size: 20px;
+     font-weight: bold;
+     margin-top: 3px;
+     color: white;
+   
+   }
+   .home
+   {
+     display:inline-block;
+     margin-right: 15px;
+     font-weight: bold;
+   color: white;
+     
+   }
+   .Aboutus{
+     display:inline-block;
+     font-size: 15px;
+     font-weight: bold;
+     color: white;
+   } 
+   .patel:hover
+   {
+     text-decoration: underline;
+   }
+   .input {
+     padding-left: 1190px;
+     margin-top: -23px;
+     border-radius: 10px;
+    
+   }
+   .button
+   {
+     padding-left: 1390px;
+     margin-top: -30px;
+     border-radius: 10px;
+    
+   
+   }
+   .button:hover{
+    box-shadow: 0px 4px 8px  rgba(red, green, blue, alpha);
+   
+   }
